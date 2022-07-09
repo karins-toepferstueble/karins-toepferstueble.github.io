@@ -34,7 +34,7 @@
 {% include 'github.html' %}
 <div id="container">
     <header>
-        <h1><a href="{{ SITEURL }}/">{{ SITENAME }}</a></h1>
+      <a href="{{ SITEURL }}/"><img src="/theme/images/banner.png" style="box-shadow:none; margin: 20px 0px 10px 0px" /></a>
         {% if SOCIAL or FEED_ALL_ATOM or FEED_ALL_RSS %}
             <ul class="social-media">
                 {% for name, link in SOCIAL %}
@@ -54,7 +54,7 @@
                 {% endif %}
             </ul>
         {% endif %}
-        <p><em>{{ SITESUBTITLE }}</em></p>
+        {% if SITESUBTITLE %} <p><em>{{ SITESUBTITLE }}</em></p> {% endif %}
     </header>
     <nav>
         <label for="hamburger">&#9776;</label>
