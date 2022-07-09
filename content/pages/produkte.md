@@ -5,19 +5,27 @@ Hier findet ihr eine kleine Auswahl von mir gestalteter Objekte. Bei meiner Arbe
 
 # Zaunsitzer
 
-Meine “Zaunsitzer” entstanden ursprünglich für einen alten Holzzaun in meinem Garten. Die kleinen Figuren sind circa 15 cm hoch und passen auf ein Rundholz mit dem Durchmesser von 4cm. Auch hier lasse ist meiner Fantasie keine Grenzen gesetzt - von Schwein, Fuchs und Blumenmädchen ist alles dabei. 
+![Zaunsitzer]({static}/images/IMG_5262.jpg)
+
+[Mehr Infos...]({filename}/pages/produkte/zaunsitzer.md)
 
 
 # Große Plastiken
 
-Auf der Suche nach neuen Projekten mit Ton stöbere ich gerne über Flohmärkte oder lasse mich von Bildern und Skulpturen beeinflussen. Am besten gefallen mir aber meine Figuren im Garten, sodass zwischen Flieder und Hortensien ein paar Gänse hervorschauen oder die großen Blumenmädchen sich die Zeit vertreiben. 
+![Plastiken]({static}/images/IMG_5286.jpg)
 
+[Mehr Infos...]({filename}/pages/produkte/plastiken.md)
 
 # Kugeln
 
-Die Form der Kugel wiederholt sich in meinen Arbeiten immer wieder. Bei der Gestaltung des Runds, lasse ich mich von organischen Formen inspirieren. Aneinander gereihte Schnecken, abstrakte Formen mit Reifen oder Kreise bringen Abwechslung, wobei die Form immer erhalten bleibt. Die Kugeln können unterschiedliche Größen von Handball bis Gymnastikball haben. 
+![Kugeln]({static}/images/IMG_5351.jpg)
+
+[Mehr Infos...]({filename}/pages/produkte/kugeln.md)
+
 
 # Vogeltränken
-In meinem Garten dürfen Vogeltränken nicht fehlen. Sie spenden nicht nur eine Möglichkeit für die Vögel zum Baden, sondern bieten auch Insekten eine Wasserquelle. Alle Vogeltränken sind individuell gestaltet, sodass jede Amsel und jede Meise eine eigene Wasserschale finden kann. 
 
+![Vogeltränke]({static}/images/IMG_5268.jpg)
+
+[Mehr Infos...]({filename}/pages/produkte/vogeltraenken.md)
 

@@ -49,3 +49,5 @@ from pelican.readers import MarkdownReader
 
 config = DEFAULT_CONFIG.copy()
 
+INTRO, _ = MarkdownReader(config).read("content/pages/landing.md")
+
