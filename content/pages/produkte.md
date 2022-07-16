@@ -23,7 +23,7 @@ Bei meiner Arbeit mit dem Material bin ich immer wieder auf der Suche nach neuen
 
 ## Kugeln
 
-![Kugeln]({static}/images/kugel.jpg)
+![Kugeln]({static}/images/kugel1.jpg)
 
 [Mehr Infos...]({filename}/pages/produkte/kugeln.md)
 
