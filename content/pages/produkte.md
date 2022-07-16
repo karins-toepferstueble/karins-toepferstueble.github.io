@@ -9,28 +9,28 @@ Bei meiner Arbeit mit dem Material bin ich immer wieder auf der Suche nach neuen
 
 ## Zaunsitzer
 
-![Zaunsitzer]({static}/images/zaunsitzer.png)
+![Zaunsitzer]({static}/images/zaunsitzer1.jpg)
 
 [Mehr Infos...]({filename}/pages/produkte/zaunsitzer.md)
 
 
 ## Große Plastiken
 
-![Plastiken]({static}/images/plastik.png)
+![Plastiken]({static}/images/plastik1.jpg)
 
 [Mehr Infos...]({filename}/pages/produkte/plastiken.md)
 
 
 ## Kugeln
 
-![Kugeln]({static}/images/kugel.png)
+![Kugeln]({static}/images/kugel.jpg)
 
 [Mehr Infos...]({filename}/pages/produkte/kugeln.md)
 
 
 ## Vogeltränken
 
-![Vogeltränke]({static}/images/vogeltraenke.png)
+![Vogeltränke]({static}/images/vogeltraenke1.jpg)
 
 [Mehr Infos...]({filename}/pages/produkte/vogeltraenken.md)
 

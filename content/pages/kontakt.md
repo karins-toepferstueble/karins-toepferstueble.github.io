@@ -8,4 +8,4 @@ Dann schreibe mir gerne eine Email.
 
 Du erreichst mich unter: **[karins.toepferstueble@gmail.com](mailto:karins.toepferstueble@gmail.com)**
 
-![Herr und Frau Jäger]({static}/images/IMG_5299.jpg)
+![Herr und Frau Jäger]({static}/images/jaegers.jpg)

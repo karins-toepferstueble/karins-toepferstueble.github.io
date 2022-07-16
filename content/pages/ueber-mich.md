@@ -17,7 +17,7 @@ Andere Inspirationen finde ich in Narrationen, Geschichten und Märchen.
 Dies lässt sich vor allem bei meinen Blumenmädchen und kleinen Königen erkennen. 
 
 ## Die Welt ist bunt!
-![]({static}/images/IMG_5265.jpg)
+![Kopf]({static}/images/kopf.jpg)
 
 Im Alltag begegnen mir immer wieder Formen, Muster und Oberflächen, an denen ich mich ebenfalls für meine Arbeiten bediene.
 Manchmal sind es gehäkelte Gardinen, die Formgebend sind, manchmal auch die Maserung von Blättern oder Blüten.

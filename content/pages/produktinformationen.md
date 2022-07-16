@@ -16,3 +16,4 @@ Wichtig ist mir, dass alle Tonprodukte sehr hoch gebrannt sind.
 Dafür sind sehr Temperaturen über 1200°C erforderlich.
 Dadurch sind alle Objekte winterhart und zerspringen im Garten auch bei Minusgraden nicht und können lange Freude bereiten. 
 
+![Kugeln]({static}/images/dame-mit-hut.jpg)

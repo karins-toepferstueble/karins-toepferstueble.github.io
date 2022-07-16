@@ -51,3 +51,4 @@ config = DEFAULT_CONFIG.copy()
 
 INTRO, _ = MarkdownReader(config).read("content/pages/landing.md")
 
+CACHE_CONTENT=False
